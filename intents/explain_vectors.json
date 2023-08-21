@@ -1,0 +1,40 @@
+{
+  "id": "0ace0914-a339-49fa-bb5b-5e67b0f5bfed",
+  "name": "explain_vectors",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "explain_vectors-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Vectorization is a technique that allows for faster computation by storing and manipulating data in an array or vector format rather than as individual units. The fundamental structure for storing and manipulating data in a vectorized manner is the N-dimensional array, or ND array, which is a data structure that represents a multi-dimensional grid of values."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

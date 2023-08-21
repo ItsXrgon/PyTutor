@@ -1,0 +1,84 @@
+[
+  {
+    "value": "print",
+    "synonyms": [
+      "print"
+    ]
+  },
+  {
+    "value": "len",
+    "synonyms": [
+      "Vectors"
+    ]
+  },
+  {
+    "value": "If",
+    "synonyms": [
+      "If",
+      "if statements",
+      "conditional operators"
+    ]
+  },
+  {
+    "value": "while",
+    "synonyms": [
+      "while loop",
+      "while",
+      "loop"
+    ]
+  },
+  {
+    "value": "for",
+    "synonyms": [
+      "for"
+    ]
+  },
+  {
+    "value": "range",
+    "synonyms": [
+      "range"
+    ]
+  },
+  {
+    "value": "input",
+    "synonyms": [
+      "input"
+    ]
+  },
+  {
+    "value": "str",
+    "synonyms": [
+      "str"
+    ]
+  },
+  {
+    "value": "int",
+    "synonyms": [
+      "int"
+    ]
+  },
+  {
+    "value": "float",
+    "synonyms": [
+      "float"
+    ]
+  },
+  {
+    "value": "list",
+    "synonyms": [
+      "list"
+    ]
+  },
+  {
+    "value": "dict",
+    "synonyms": [
+      "dict"
+    ]
+  },
+  {
+    "value": "set",
+    "synonyms": [
+      "set"
+    ]
+  }
+]

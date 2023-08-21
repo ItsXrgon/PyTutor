@@ -1,0 +1,48 @@
+[
+  {
+    "id": "996532e7-3964-4941-bdf4-5d1f7271c9c8",
+    "data": [
+      {
+        "text": "What are ",
+        "userDefined": false
+      },
+      {
+        "text": "classes",
+        "meta": "@sys.unit-information-name",
+        "alias": "unit-information-name",
+        "userDefined": true
+      },
+      {
+        "text": " and objects?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "76917d6b-ddba-4cdf-93aa-69d150085419",
+    "data": [
+      {
+        "text": "Can you explain how ",
+        "userDefined": false
+      },
+      {
+        "text": "classes",
+        "meta": "@sys.unit-information-name",
+        "alias": "unit-information-name",
+        "userDefined": true
+      },
+      {
+        "text": " work?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

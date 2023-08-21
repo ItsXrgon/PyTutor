@@ -1,0 +1,9 @@
+{
+  "id": "62043143-6164-464d-b6c2-bc8d40ccc652",
+  "name": "python_function",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

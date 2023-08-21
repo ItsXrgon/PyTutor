@@ -1,0 +1,39 @@
+{
+  "id": "5543c03b-dbc0-4f08-afa0-cb1fa1e3c484",
+  "parentId": "0ace0914-a339-49fa-bb5b-5e67b0f5bfed",
+  "rootParentId": "0ace0914-a339-49fa-bb5b-5e67b0f5bfed",
+  "name": "explain_vectors - more",
+  "auto": true,
+  "contexts": [
+    "explain_vectors-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "explain_vectors.explain_vectors-more",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Vectorized operations enable element-wise operations to be performed on entire ND arrays using a single function call, rather than iterating over the array and applying the operation to each element individually. When working with ND arrays that have more than two dimensions, vectorized operations can still be used by processing each element in the array one at a time. For example, with a 2D array, you can iterate over the rows and process one row at a time.\n\nfor  i  in range(len(A)):\n  B[i] \u003d A[i] * 2\nThis loop multiplies each element in the array A by 2 and stores the result in the corresponding element of B.\n\n# Vectorized implementation\nB \u003d A * 2\nThis vectorized operation performs the same operation as the loop, but the operation is performed on the entire array at once.\n\nVectors are most commonly used with the NumPy library."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

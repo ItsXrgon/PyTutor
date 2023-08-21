@@ -1,0 +1,9 @@
+{
+  "id": "c167ab7c-6af6-405b-8c86-1f42ef184da5",
+  "name": "python_library",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,273 @@
+[
+  {
+    "id": "3636ce24-0476-4aaa-8852-d5f63e65ef1d",
+    "data": [
+      {
+        "text": "explain how ",
+        "userDefined": false
+      },
+      {
+        "text": "numpy",
+        "meta": "@python_library",
+        "alias": "library",
+        "userDefined": true
+      },
+      {
+        "text": " works",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e98c60c6-52cb-47e1-b69a-ed89d0a52c7b",
+    "data": [
+      {
+        "text": "How do I work with the ",
+        "userDefined": false
+      },
+      {
+        "text": "json",
+        "meta": "@python_library",
+        "alias": "library",
+        "userDefined": false
+      },
+      {
+        "text": " module? Show me an example.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3f461acc-28cd-4670-9ce3-ecf40ab3c7dc",
+    "data": [
+      {
+        "text": "Can you provide a usage example ",
+        "userDefined": false
+      },
+      {
+        "text": "for",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "requests",
+        "meta": "@python_library",
+        "alias": "library",
+        "userDefined": false
+      },
+      {
+        "text": " library?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "18c94f32-527e-4a0f-83f9-e707e9916585",
+    "data": [
+      {
+        "text": "Generate an example from the ",
+        "userDefined": false
+      },
+      {
+        "text": "statistics",
+        "meta": "@python_library",
+        "alias": "library",
+        "userDefined": false
+      },
+      {
+        "text": " module.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "05b3fd9c-32e8-4b96-8d3a-1ffb29a9dd46",
+    "data": [
+      {
+        "text": "Show me a code snippet using the ",
+        "userDefined": false
+      },
+      {
+        "text": "pandas",
+        "meta": "@python_library",
+        "alias": "library",
+        "userDefined": false
+      },
+      {
+        "text": " library.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e8b85f2-724b-477c-aeba-6e88768d68fa",
+    "data": [
+      {
+        "text": "How do I use ",
+        "userDefined": false
+      },
+      {
+        "text": "numpy",
+        "meta": "@python_library",
+        "alias": "library",
+        "userDefined": false
+      },
+      {
+        "text": "? Provide an example.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "19cac9af-6a2c-4c08-87ad-68a5a46cb927",
+    "data": [
+      {
+        "text": "Display a plot using the ",
+        "userDefined": false
+      },
+      {
+        "text": "matplotlib",
+        "meta": "@python_library",
+        "alias": "library",
+        "userDefined": false
+      },
+      {
+        "text": " library.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5d95b5f5-cb6a-4e25-95c0-cfdc5d79406f",
+    "data": [
+      {
+        "text": "Demonstrate the usage of ",
+        "userDefined": false
+      },
+      {
+        "text": "functions",
+        "meta": "@programming_concept",
+        "alias": "concept",
+        "userDefined": false
+      },
+      {
+        "text": " from the ",
+        "userDefined": false
+      },
+      {
+        "text": "os",
+        "meta": "@python_library",
+        "alias": "library",
+        "userDefined": false
+      },
+      {
+        "text": " package.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6d602624-f191-4966-856e-e8f6d21df450",
+    "data": [
+      {
+        "text": "Explain the ",
+        "userDefined": false
+      },
+      {
+        "text": "datetime",
+        "meta": "@python_library",
+        "alias": "library",
+        "userDefined": true
+      },
+      {
+        "text": " library with an example.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "44df8c19-6bb0-4682-a573-3234a114e041",
+    "data": [
+      {
+        "text": "Can you give me a usage example of the ",
+        "userDefined": false
+      },
+      {
+        "text": "random",
+        "meta": "@python_library",
+        "alias": "library",
+        "userDefined": false
+      },
+      {
+        "text": " module?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24a985f4-1c12-4c9c-9a4b-4f85b61a7576",
+    "data": [
+      {
+        "text": "Show me an example from the ",
+        "userDefined": false
+      },
+      {
+        "text": "math",
+        "meta": "@python_library",
+        "alias": "library",
+        "userDefined": false
+      },
+      {
+        "text": " library.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

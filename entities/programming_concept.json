@@ -1,0 +1,9 @@
+{
+  "id": "2ea54a74-eac6-462e-ab89-3f812aab384c",
+  "name": "programming_concept",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

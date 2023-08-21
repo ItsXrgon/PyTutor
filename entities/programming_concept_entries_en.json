@@ -1,0 +1,57 @@
+[
+  {
+    "value": "classes",
+    "synonyms": [
+      "classes"
+    ]
+  },
+  {
+    "value": "objects",
+    "synonyms": [
+      "objects"
+    ]
+  },
+  {
+    "value": "methods",
+    "synonyms": [
+      "methods",
+      "functions"
+    ]
+  },
+  {
+    "value": "variables",
+    "synonyms": [
+      "variables"
+    ]
+  },
+  {
+    "value": "inheritance",
+    "synonyms": [
+      "inheritance"
+    ]
+  },
+  {
+    "value": "polymorphism",
+    "synonyms": [
+      "polymorphism"
+    ]
+  },
+  {
+    "value": "encapsulation",
+    "synonyms": [
+      "encapsulation"
+    ]
+  },
+  {
+    "value": "abstraction",
+    "synonyms": [
+      "abstraction"
+    ]
+  },
+  {
+    "value": "vectors",
+    "synonyms": [
+      "vectors"
+    ]
+  }
+]

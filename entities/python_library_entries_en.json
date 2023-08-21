@@ -1,0 +1,66 @@
+[
+  {
+    "value": "math",
+    "synonyms": [
+      "math",
+      "mathematics"
+    ]
+  },
+  {
+    "value": "random",
+    "synonyms": [
+      "random",
+      "randomization"
+    ]
+  },
+  {
+    "value": "datetime",
+    "synonyms": [
+      "datetime",
+      "date time"
+    ]
+  },
+  {
+    "value": "os",
+    "synonyms": [
+      "os",
+      "operating system"
+    ]
+  },
+  {
+    "value": "numpy",
+    "synonyms": [
+      "numpy"
+    ]
+  },
+  {
+    "value": "pandas",
+    "synonyms": [
+      "pandas"
+    ]
+  },
+  {
+    "value": "matplotlib",
+    "synonyms": [
+      "matplotlib"
+    ]
+  },
+  {
+    "value": "statistics",
+    "synonyms": [
+      "statistics"
+    ]
+  },
+  {
+    "value": "requests",
+    "synonyms": [
+      "requests"
+    ]
+  },
+  {
+    "value": "json",
+    "synonyms": [
+      "json"
+    ]
+  }
+]
